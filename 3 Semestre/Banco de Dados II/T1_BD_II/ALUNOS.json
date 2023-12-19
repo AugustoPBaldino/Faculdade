@@ -1,0 +1,305 @@
+[
+{
+"Matricula" : 20106842,
+"Nome" : "Jovana da Silva",
+"Endereco" : "Porto Alegre Zona Norte",
+"Curso" : {
+"Codigo" : "98AH ",
+"Titulo" : "Ciencia de Dados e Inteligencia Artificial"
+},
+"Data_Ingresso" : "2020-03-01T00:00:00",
+"Discs_Matriculadas" : null,
+"Discs_Historico" : [
+{
+"Codicred" : "98H03-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 7
+}
+]
+},
+{
+"Matricula" : 21103839,
+"Nome" : "Eduardo da Silva",
+"Endereco" : "Porto Alegre Zona Sul",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2021-03-01T00:00:00",
+"Discs_Matriculadas" : null,
+"Discs_Historico" : [
+{
+"Codicred" : "4645G-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 7
+}
+]
+},
+{
+"Matricula" : 21108293,
+"Nome" : "Marcelo da Silva",
+"Endereco" : "Porto Alegre Zona Sul",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2021-03-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "98801-04",
+"Turma" : 30,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 20
+},
+{
+"Codicred" : "98901-04",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 20
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "4645H-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 7
+},
+{
+"Codicred" : "98H04-06",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 9
+}
+]
+},
+{
+"Matricula" : 21112046,
+"Nome" : "Tiago da Silva",
+"Endereco" : "Porto Alegre Zona Sul",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2021-03-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "98901-04",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 20
+},
+{
+"Codicred" : "98H04-06",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 30
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "4645H-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 9
+}
+]
+},
+{
+"Matricula" : 21112192,
+"Nome" : "Vanessa da Silva",
+"Endereco" : "Porto Alegre Zona Norte",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2021-03-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "4645H-04",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 20
+},
+{
+"Codicred" : "98H04-06",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 30
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "4645G-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Reprovado",
+"Nota" : 5
+}
+]
+},
+{
+"Matricula" : 21201018,
+"Nome" : "Carla da Silva",
+"Endereco" : "Porto Alegre Zona Norte",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2021-08-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "4611C-06",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 30
+},
+{
+"Codicred" : "98H03-04",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 20
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "98705-02",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 8
+}
+]
+},
+{
+"Matricula" : 21206067,
+"Nome" : "Rogerio da Silva",
+"Endereco" : "Porto Alegre Zona Sul",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2021-08-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "4611C-06",
+"Turma" : 12,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 30
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "98H03-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 9
+}
+]
+},
+{
+"Matricula" : 22280018,
+"Nome" : "Solange da Silva",
+"Endereco" : "Porto Alegre Zona Norte",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2022-08-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "98H03-04",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 20
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "98705-02",
+"Turma" : 11,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 9
+}
+]
+},
+{
+"Matricula" : 22280023,
+"Nome" : "Marcelo da Silva",
+"Endereco" : "Porto Alegre Zona Sul",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2022-08-01T00:00:00",
+"Discs_Matriculadas" : null,
+"Discs_Historico" : [
+{
+"Codicred" : "98H03-04",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Aprovado",
+"Nota" : 7
+}
+]
+},
+{
+"Matricula" : 22280027,
+"Nome" : "Katia da Silva",
+"Endereco" : "Porto Alegre Zona Norte",
+"Curso" : {
+"Codigo" : "98AJ ",
+"Titulo" : "Ciencia da Computacao"
+},
+"Data_Ingresso" : "2022-08-01T00:00:00",
+"Discs_Matriculadas" : [
+{
+"Codicred" : "98705-02",
+"Turma" : 10,
+"Ano_Semestre" : "2023/1",
+"Situacao" : "Ativo",
+"Frequencia" : 10
+}
+],
+"Discs_Historico" : [
+{
+"Codicred" : "98705-02",
+"Turma" : 10,
+"Ano_Semestre" : "2022/2",
+"Situacao" : "Reprovado",
+"Nota" : 4
+}
+]
+},
+{
+"Matricula" : 23104543,
+"Nome" : "Marcos da Silva",
+"Endereco" : "Porto Alegre Zona Sul",
+"Curso" : {
+"Codigo" : "98AH ",
+"Titulo" : "Ciencia de Dados e Inteligencia Artificial"
+},
+"Data_Ingresso" : "2023-03-01T00:00:00",
+"Discs_Matriculadas" : null,
+"Discs_Historico" : null
+}
+]

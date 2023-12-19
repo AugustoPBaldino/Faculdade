@@ -1,0 +1,3694 @@
+[
+    {
+        "Codicred" : "13397-02",
+        "Denominacao" : "Psicologia e Gestao de Pessoas em TI",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/206",
+        "Professor" : "Renata",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4117D-04",
+        "Denominacao" : "Calculo III",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5EX6EX",
+        "Sala" : "32/A/314",
+        "Professor" : "Maria",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4117D-04",
+        "Denominacao" : "Calculo III",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/305",
+        "Professor" : "Cintia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4452A-02",
+        "Denominacao" : "Introducao a Engenharia de Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD",
+        "Sala" : "32/A/317",
+        "Professor" : "Terroso",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4452A-02",
+        "Denominacao" : "Introducao a Engenharia de Computacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD",
+        "Sala" : "32/A/416",
+        "Professor" : "Marlon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4456C-04",
+        "Denominacao" : "Microeletronica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/304",
+        "Professor" : "Moraes",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4456W-02",
+        "Denominacao" : "Estagio Supervisionado - Ec (190 Hrs)",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD",
+        "Sala" : "32/A/217",
+        "Professor" : "Moraes",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4471V-02",
+        "Denominacao" : "Sistemas de Planejamento e Custos para Engenharia",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4LM",
+        "Sala" : "32/A/414",
+        "Professor" : "Alvaro",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4471V-02",
+        "Denominacao" : "Sistemas de Planejamento e Custos para Engenharia",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4JK",
+        "Sala" : "32/A/414",
+        "Professor" : "Alvaro",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4471X-02",
+        "Denominacao" : "Engenharia Economica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK",
+        "Sala" : "32/A/306",
+        "Professor" : "Alvaro",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/413",
+        "Professor" : "Giraffa",
+        "Alunos" : [
+        {
+        "Matricula" : 21201018,
+        "Nome" : "Carla da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/304",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/316",
+        "Professor" : "Roland",
+        "Alunos" : [
+        {
+        "Matricula" : 21206067,
+        "Nome" : "Rogerio da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 13,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/404",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 14,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX6EX",
+        "Sala" : "32/A/213",
+        "Professor" : "Giraffa",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 15,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/214",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 16,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "N/A",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK6JK",
+        "Sala" : "32/A/303",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM6LM",
+        "Sala" : "32/A/304",
+        "Professor" : "Silvia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM6LM",
+        "Sala" : "32/A/203",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 33,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM6LM",
+        "Sala" : "32/A/405",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 34,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK6JK",
+        "Sala" : "32/A/413",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 35,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK6JK",
+        "Sala" : "N/A",
+        "Professor" : "Denise",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 36,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP6NP",
+        "Sala" : "32/A/214",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/516",
+        "Professor" : "Bordini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/313",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/305",
+        "Professor" : "Silvia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/313",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD5EX",
+        "Sala" : "32/A/217",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD5EX",
+        "Sala" : "32/A/204",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD5EX",
+        "Sala" : "32/A/405",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Yamaguti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/204",
+        "Professor" : "Yamaguti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/317",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611G-04",
+        "Denominacao" : "Simulacao e MEtodos Analiticos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/305",
+        "Professor" : "Afonso",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4620J-04",
+        "Denominacao" : "Sistemas de Tempo Real",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/203",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4636H-04",
+        "Denominacao" : "Fundamentos de Desenvolvimento de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "P15 - s218",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4636N-04",
+        "Denominacao" : "Infraestrutura de Tecnologia da Informacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/307",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4637B-04",
+        "Denominacao" : "Programacao de Software Aplicado",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/408",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/203",
+        "Professor" : "Isabel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/214",
+        "Professor" : "Iacana",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/204",
+        "Professor" : "Pinho",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 13,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/203",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 14,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/214",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/207",
+        "Professor" : "Isabel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/304",
+        "Professor" : "Leonardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/204",
+        "Professor" : "Scopel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/303",
+        "Professor" : "Edson",
+        "Alunos" : [
+        {
+        "Matricula" : 21112192,
+        "Nome" : "Vanessa da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/303",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/303",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/316",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/317",
+        "Professor" : "Leonardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/304",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 33,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/304",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645J-04",
+        "Denominacao" : "Computacao Paralela",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/316",
+        "Professor" : "DeRose",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645K-04",
+        "Denominacao" : "Construcao de Compiladores",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/215",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/317",
+        "Professor" : "Iacana",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/204",
+        "Professor" : "Marlon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/216",
+        "Professor" : "Moraes",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 13,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/307",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646I-04",
+        "Denominacao" : "Laboratorio de Sistemas Operacionais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4JK6JK",
+        "Sala" : "32/A/304",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646I-04",
+        "Denominacao" : "Laboratorio de Sistemas Operacionais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4JK6JK",
+        "Sala" : "32/A/408",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646M-04",
+        "Denominacao" : "MEtodos Formais para Computacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/213, 32/A/306",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646N-04",
+        "Denominacao" : "MEtodos NumEricos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/313",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646X-04",
+        "Denominacao" : "Projeto de Desenvolvimento de Jogos",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/205",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646X-04",
+        "Denominacao" : "Projeto de Desenvolvimento de Jogos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK6JK",
+        "Sala" : "32/A/314",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646Z-04",
+        "Denominacao" : "Projeto e Otimizacao de Algoritmos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/213",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646Z-04",
+        "Denominacao" : "Projeto e Otimizacao de Algoritmos",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/413",
+        "Professor" : "Scopel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647A-04",
+        "Denominacao" : "Redes de Computadores Avancadas",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD",
+        "Sala" : "32/A/206",
+        "Professor" : "Ana Benso",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647A-04",
+        "Denominacao" : "Redes de Computadores Avancadas",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/205, 32/A/313",
+        "Professor" : "Ferreto",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647B-04",
+        "Denominacao" : "Sistemas Distribuidos",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/306",
+        "Professor" : "Dotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647F-04",
+        "Denominacao" : "Teoria da Computabilidade e Complexidade",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4JK6LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Bordini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46504-04",
+        "Denominacao" : "Construcao de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/215",
+        "Professor" : "Arruda",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46504-04",
+        "Denominacao" : "Construcao de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/215",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46506-04",
+        "Denominacao" : "Engenharia de Requisitos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "N/A",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46506-04",
+        "Denominacao" : "Engenharia de Requisitos",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "15/205",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46506-04",
+        "Denominacao" : "Engenharia de Requisitos",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "N/A",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46507-02",
+        "Denominacao" : "Engenharia de Software Experimental",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5LM",
+        "Sala" : "15/205",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46507-02",
+        "Denominacao" : "Engenharia de Software Experimental",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK",
+        "Sala" : "15/317",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46509-02",
+        "Denominacao" : "Gerenciamento de Configuracao de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/306",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46509-02",
+        "Denominacao" : "Gerenciamento de Configuracao de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/305",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46510-04",
+        "Denominacao" : "Gerenciamento de Projeto de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/213",
+        "Professor" : "Peres",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46510-04",
+        "Denominacao" : "Gerenciamento de Projeto de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/205",
+        "Professor" : "Jorge",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46514-04",
+        "Denominacao" : "Linguagens de Programacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/314",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46515-04",
+        "Denominacao" : "Linguagens, Automatos e Computacao",
+        "Turma" : 690,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "9AB9CD",
+        "Sala" : "32/A/314",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46517-02",
+        "Denominacao" : "Melhoria de Processos de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM",
+        "Sala" : "15/310",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46522-04",
+        "Denominacao" : "Pratica na Agencia Experimental I (120 horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107",
+        "Professor" : "Alessandra",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46522-04",
+        "Denominacao" : "Pratica na Agencia Experimental I (120 horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46523-04",
+        "Denominacao" : "Pratica na Agencia Experimental II (120 horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46523-04",
+        "Denominacao" : "Pratica na Agencia Experimental II (120 horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Yamaguti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46524-04",
+        "Denominacao" : "Pratica na Agencia Experimental III (120 Horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107-01",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46524-04",
+        "Denominacao" : "Pratica na Agencia Experimental III (120 Horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107-01",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46525-04",
+        "Denominacao" : "Pratica na Agencia Experimental IV (120 horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Chanin",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46525-04",
+        "Denominacao" : "Pratica na Agencia Experimental IV (120 horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46526-02",
+        "Denominacao" : "Programacao de Software Basico",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5LM",
+        "Sala" : "32/A/317",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46526-02",
+        "Denominacao" : "Programacao de Software Basico",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5LM",
+        "Sala" : "32/A/203",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46526-02",
+        "Denominacao" : "Programacao de Software Basico",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5LM",
+        "Sala" : "32/A/204",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/305",
+        "Professor" : "Lucilia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/305",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/313",
+        "Professor" : "Barbara",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 13,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/414",
+        "Professor" : "Cintia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 14,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "7AB7CD",
+        "Sala" : "32/A/214",
+        "Professor" : "Lucilia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/413",
+        "Professor" : "Isabel Lara",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/414",
+        "Professor" : "Ivan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/206",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95301-04",
+        "Denominacao" : "Calculo II",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/205",
+        "Professor" : "Iuri",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95301-04",
+        "Denominacao" : "Calculo II",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/206",
+        "Professor" : "Ivan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95302-04",
+        "Denominacao" : "algebra Linear e Geometria Analitica",
+        "Turma" : 33,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/313",
+        "Professor" : "Daniela",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/305",
+        "Professor" : "Cintia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/307",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/206",
+        "Professor" : "Iuri",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 13,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/413",
+        "Professor" : "Isabel Lara",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 14,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5AB5CD",
+        "Sala" : "32/A/214",
+        "Professor" : "Iuri",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/313",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/415",
+        "Professor" : "Iuri",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95304-04",
+        "Denominacao" : "Probabilidade e Estatistica",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/214",
+        "Professor" : "Rossana",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95304-04",
+        "Denominacao" : "Probabilidade e Estatistica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK5JK",
+        "Sala" : "32/A/206",
+        "Professor" : "Zabala",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95305-04",
+        "Denominacao" : "Matematica Aplicada",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/405",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98700-04",
+        "Denominacao" : "Sistemas Operacionais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/305",
+        "Professor" : "Hessel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98700-04",
+        "Denominacao" : "Sistemas Operacionais",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/205",
+        "Professor" : "Dotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98701-04",
+        "Denominacao" : "Programacao de Baixo Nivel",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/303",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98701-04",
+        "Denominacao" : "Programacao de Baixo Nivel",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/207",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98701-04",
+        "Denominacao" : "Programacao de Baixo Nivel",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/216",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98702-04",
+        "Denominacao" : "Pratica em Pesquisa",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6AB7AB",
+        "Sala" : "32/A/303",
+        "Professor" : "Ferreto",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98702-04",
+        "Denominacao" : "Pratica em Pesquisa",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6AB7AB",
+        "Sala" : "32/A/303",
+        "Professor" : "Avelino",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98702-04",
+        "Denominacao" : "Pratica em Pesquisa",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6AB7AB",
+        "Sala" : "32/A/304",
+        "Professor" : "Dalvan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98703-02",
+        "Denominacao" : "Programacao Funcional",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/216",
+        "Professor" : "Bordini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98703-02",
+        "Denominacao" : "Programacao Funcional",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/216",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98704-04",
+        "Denominacao" : "Pratica em Engenharia de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/317",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD",
+        "Sala" : "32/A/516",
+        "Professor" : "Agustini",
+        "Alunos" : [
+        {
+        "Matricula" : 22280027,
+        "Nome" : "Katia da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD",
+        "Sala" : "32/A/214",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD",
+        "Sala" : "32/A/413",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6NP",
+        "Sala" : "32/A/516",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM",
+        "Sala" : "32/A/516",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM",
+        "Sala" : "32/A/305",
+        "Professor" : "Terroso",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98706-04",
+        "Denominacao" : "Aprendizado de Maquina",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD",
+        "Sala" : "32/A/305",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98707-02",
+        "Denominacao" : "Metodologia Cientifica",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB",
+        "Sala" : "32/A/516",
+        "Professor" : "Soraia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98707-02",
+        "Denominacao" : "Metodologia Cientifica",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB",
+        "Sala" : "32/A/305",
+        "Professor" : "Ferreto",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98707-02",
+        "Denominacao" : "Metodologia Cientifica",
+        "Turma" : 12,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3AB",
+        "Sala" : "N/A",
+        "Professor" : "Milene",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98708-04",
+        "Denominacao" : "Inteligencia Artificial",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Scopel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98708-04",
+        "Denominacao" : "Inteligencia Artificial",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/205",
+        "Professor" : "Silvia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98709-04",
+        "Denominacao" : "Fundamentos de Redes de Computadores",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/314",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98709-04",
+        "Denominacao" : "Fundamentos de Redes de Computadores",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/215",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98710-02",
+        "Denominacao" : "Laboratorio de Redes de Computadores",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK",
+        "Sala" : "32/A/203",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98710-02",
+        "Denominacao" : "Laboratorio de Redes de Computadores",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM",
+        "Sala" : "32/A/408",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98710-02",
+        "Denominacao" : "Laboratorio de Redes de Computadores",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP",
+        "Sala" : "32/A/404",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98712-04",
+        "Denominacao" : "Introducao a Programacao - ECo",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/317",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98712-04",
+        "Denominacao" : "Introducao a Programacao - ECo",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/404",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98713-04",
+        "Denominacao" : "Fundamentos de Processamento Paralelo e Distribuido",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/314",
+        "Professor" : "DeRose",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98713-04",
+        "Denominacao" : "Fundamentos de Processamento Paralelo e Distribuido",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/307",
+        "Professor" : "Dotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98713-04",
+        "Denominacao" : "Fundamentos de Processamento Paralelo e Distribuido",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/414",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98716-04",
+        "Denominacao" : "Computacao Grafica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/214",
+        "Professor" : "Pinho",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98718-04",
+        "Denominacao" : "Programacao Orientada A Objetos - Eco",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/217",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98719-02",
+        "Denominacao" : "Construcao de Sistemas Operacionais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5NP",
+        "Sala" : "32/A/203",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98721-04",
+        "Denominacao" : "Introducao A Visao Computacional",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/307",
+        "Professor" : "Soraia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/205",
+        "Professor" : "Hessel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/214",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/413",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98801-04",
+        "Denominacao" : "Engenharia de Software I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/414",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : [
+        {
+        "Matricula" : 21108293,
+        "Nome" : "Marcelo da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98802-02",
+        "Denominacao" : "Engenharia de Software II",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4NP",
+        "Sala" : "32/A/306",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98802-02",
+        "Denominacao" : "Engenharia de Software II",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4LM",
+        "Sala" : "32/A/306",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98900-02",
+        "Denominacao" : "Introducao a Engenharia de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK",
+        "Sala" : "32/A/306",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98900-02",
+        "Denominacao" : "Introducao a Engenharia de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5JK",
+        "Sala" : "32/A/316",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98900-02",
+        "Denominacao" : "Introducao a Engenharia de Software",
+        "Turma" : 32,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5NP",
+        "Sala" : "32/A/306",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/206",
+        "Professor" : "Azriel",
+        "Alunos" : [
+        {
+        "Matricula" : 21108293,
+        "Nome" : "Marcelo da Silva"
+        },
+        {
+        "Matricula" : 21112046,
+        "Nome" : "Tiago da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/213",
+        "Professor" : "Denise",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/206",
+        "Professor" : "Denise",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/214",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98903-02",
+        "Denominacao" : "Processos de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/416",
+        "Professor" : "Prikladnicki",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98903-02",
+        "Denominacao" : "Processos de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/307",
+        "Professor" : "Dilnei",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98904-04",
+        "Denominacao" : "Verificacao e Validacao de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/307",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98905-04",
+        "Denominacao" : "Experiencia do Usuario",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/304",
+        "Professor" : "Milene",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98905-04",
+        "Denominacao" : "Experiencia do Usuario",
+        "Turma" : 31,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/316",
+        "Professor" : "Chanin",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98F30-04",
+        "Denominacao" : "Analise Multivariada",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5LM6JK",
+        "Sala" : "32/A/313",
+        "Professor" : "Zabala",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98F31-04",
+        "Denominacao" : "Topicos de algebra Linear",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/417",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98F33-04",
+        "Denominacao" : "algebra Linear e Matricial",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD",
+        "Sala" : "32/A/205",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G00-04",
+        "Denominacao" : "Sistemas Embarcados",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/318",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G02-04",
+        "Denominacao" : "Sistemas Digitais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/203",
+        "Professor" : "Iacana",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G03-04",
+        "Denominacao" : "Organizacao e Arquitetura de Processadores",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/306",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G03-04",
+        "Denominacao" : "Organizacao e Arquitetura de Processadores",
+        "Turma" : 11,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/313",
+        "Professor" : "Marcon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G04-02",
+        "Denominacao" : "Construcao de Sistemas Digitais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "5JK",
+        "Sala" : "32/A/317",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G05-04",
+        "Denominacao" : "Arquitetura e Organizacao de Computadores",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/217",
+        "Professor" : "Marcon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H00-04",
+        "Denominacao" : "Infraestrutura para Gestao de Dados",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/305",
+        "Professor" : "Arruda",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H01-04",
+        "Denominacao" : "Coleta, Preparacao e Analise de Dados",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/206",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H03-04",
+        "Denominacao" : "Introducao a Ciencia de Dados",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2EX4EX",
+        "Sala" : "N/A",
+        "Professor" : "Duncan",
+        "Alunos" : [
+        {
+        "Matricula" : 21201018,
+        "Nome" : "Carla da Silva"
+        },
+        {
+        "Matricula" : 22280018,
+        "Nome" : "Solange da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98H04-06",
+        "Denominacao" : "Programacao Orientada A Dados",
+        "Turma" : 10,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/203",
+        "Professor" : "Dalvan",
+        "Alunos" : [
+        {
+        "Matricula" : 21112046,
+        "Nome" : "Tiago da Silva"
+        },
+        {
+        "Matricula" : 21112192,
+        "Nome" : "Vanessa da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98H05-04",
+        "Denominacao" : "Aprendizado Supervisionado",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/215",
+        "Professor" : "Duncan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H07-04",
+        "Denominacao" : "Visualizacao de Dados",
+        "Turma" : 30,
+        "Ano_Semestre" : "2023/1",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/417",
+        "Professor" : "Isabel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "13397-02",
+        "Denominacao" : "Psicologia e Gestao de Pessoas em TI",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/206",
+        "Professor" : "Renata",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4117D-04",
+        "Denominacao" : "Calculo III",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/214",
+        "Professor" : "Cintia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4117D-04",
+        "Denominacao" : "Calculo III",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/305",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4452A-02",
+        "Denominacao" : "Introducao a Engenharia de Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD",
+        "Sala" : "32/A/317",
+        "Professor" : "Ney",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4456C-04",
+        "Denominacao" : "Microeletronica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/304",
+        "Professor" : "Moraes",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4456W-02",
+        "Denominacao" : "Estagio Supervisionado - Ec (190 Hrs)",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB",
+        "Sala" : "32/A/217",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4471V-02",
+        "Denominacao" : "Sistemas de Planejamento e Custos para Engenharia",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4LM",
+        "Sala" : "32/A/414",
+        "Professor" : "Alvaro",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4471V-02",
+        "Denominacao" : "Sistemas de Planejamento e Custos para Engenharia",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4JK",
+        "Sala" : "32/A/414",
+        "Professor" : "Alvaro",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/303",
+        "Professor" : "Giraffa",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/304",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 12,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "N/A",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 13,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/404",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK6JK",
+        "Sala" : "32/A/303",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM6LM",
+        "Sala" : "32/A/304",
+        "Professor" : "Silvia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM6LM",
+        "Sala" : "32/A/203",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611C-06",
+        "Denominacao" : "Fundamentos de Programacao",
+        "Turma" : 33,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM6LM",
+        "Sala" : "32/A/405",
+        "Professor" : "Dalvan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/306",
+        "Professor" : "Bordini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/313",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/305",
+        "Professor" : "Silvia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611E-04",
+        "Denominacao" : "Logica para Computacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/313",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD5EX",
+        "Sala" : "32/A/217",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD5EX",
+        "Sala" : "32/A/204",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 12,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD5EX",
+        "Sala" : "32/A/405",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Yamaguti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/204",
+        "Professor" : "Yamaguti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/204",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611F-04",
+        "Denominacao" : "Programacao Orientada a Objetos",
+        "Turma" : 33,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/404",
+        "Professor" : "Garibotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4611G-04",
+        "Denominacao" : "Simulacao e MEtodos Analiticos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/306",
+        "Professor" : "Afonso",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4620J-04",
+        "Denominacao" : "Sistemas de Tempo Real",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/203",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4636H-04",
+        "Denominacao" : "Fundamentos de Desenvolvimento de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "N/A",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4636N-04",
+        "Denominacao" : "Infraestrutura de Tecnologia da Informacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/307",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4637B-04",
+        "Denominacao" : "Programacao de Software Aplicado",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/408",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/203",
+        "Professor" : "Isabel",
+        "Alunos" : [
+        {
+        "Matricula" : 21103839,
+        "Nome" : "Eduardo da Silva"
+        },
+        {
+        "Matricula" : 21112192,
+        "Nome" : "Vanessa da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/204",
+        "Professor" : "Pinho",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 12,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/214",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 13,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/203",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 14,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/214",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/207",
+        "Professor" : "Isabel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/304",
+        "Professor" : "Leonardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/204",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645G-04",
+        "Denominacao" : "Algoritmos e Estrutura de Dados I",
+        "Turma" : 33,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/404",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/303",
+        "Professor" : "JB",
+        "Alunos" : [
+        {
+        "Matricula" : 21108293,
+        "Nome" : "Marcelo da Silva"
+        },
+        {
+        "Matricula" : 21112046,
+        "Nome" : "Tiago da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/207",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/316",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/317",
+        "Professor" : "Leonardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645H-04",
+        "Denominacao" : "Algoritmos e Estruturas de Dados II",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/304",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645J-04",
+        "Denominacao" : "Computacao Paralela",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/316",
+        "Professor" : "DeRose",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4645K-04",
+        "Denominacao" : "Construcao de Compiladores",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/215",
+        "Professor" : "Agustini",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/317",
+        "Professor" : "Garibotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/204",
+        "Professor" : "Marlon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 12,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/216",
+        "Professor" : "Moraes",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 13,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/405",
+        "Professor" : "Marcon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646B-04",
+        "Denominacao" : "Fundamentos de Sistemas Digitais",
+        "Turma" : 14,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/307",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646I-04",
+        "Denominacao" : "Laboratorio de Sistemas Operacionais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/304",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646N-04",
+        "Denominacao" : "MEtodos NumEricos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/313",
+        "Professor" : "Franciosi",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646X-04",
+        "Denominacao" : "Projeto de Desenvolvimento de Jogos",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/205",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646X-04",
+        "Denominacao" : "Projeto de Desenvolvimento de Jogos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK6JK",
+        "Sala" : "32/A/314",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646Z-04",
+        "Denominacao" : "Projeto e Otimizacao de Algoritmos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/307",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4646Z-04",
+        "Denominacao" : "Projeto e Otimizacao de Algoritmos",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/413",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647A-04",
+        "Denominacao" : "Redes de Computadores Avancadas",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD",
+        "Sala" : "32/A/206",
+        "Professor" : "Ana Benso",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647B-04",
+        "Denominacao" : "Sistemas Distribuidos",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/306",
+        "Professor" : "Dotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "4647F-04",
+        "Denominacao" : "Teoria da Computabilidade e Complexidade",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4JK6LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46504-04",
+        "Denominacao" : "Construcao de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/215",
+        "Professor" : "Arruda",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46506-04",
+        "Denominacao" : "Engenharia de Requisitos",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/203",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46506-04",
+        "Denominacao" : "Engenharia de Requisitos",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/316",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46506-04",
+        "Denominacao" : "Engenharia de Requisitos",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/415",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46507-02",
+        "Denominacao" : "Engenharia de Software Experimental",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5LM",
+        "Sala" : "32/A/213",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46507-02",
+        "Denominacao" : "Engenharia de Software Experimental",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK",
+        "Sala" : "32/A/205",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46509-02",
+        "Denominacao" : "Gerenciamento de Configuracao de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/306",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46509-02",
+        "Denominacao" : "Gerenciamento de Configuracao de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "N/A",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46509-02",
+        "Denominacao" : "Gerenciamento de Configuracao de Software",
+        "Turma" : 33,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5JK",
+        "Sala" : "N/A",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46510-04",
+        "Denominacao" : "Gerenciamento de Projeto de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/213",
+        "Professor" : "Alessandra",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46514-04",
+        "Denominacao" : "Linguagens de Programacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "N/A",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46515-04",
+        "Denominacao" : "Linguagens, Automatos e Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/314",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46515-04",
+        "Denominacao" : "Linguagens, Automatos e Computacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "N/A",
+        "Professor" : "Andrea",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46515-04",
+        "Denominacao" : "Linguagens, Automatos e Computacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/213",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46515-04",
+        "Denominacao" : "Linguagens, Automatos e Computacao",
+        "Turma" : 690,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "9AB9CD",
+        "Sala" : "32/A/314",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46517-02",
+        "Denominacao" : "Melhoria de Processos de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM",
+        "Sala" : "32/A/306",
+        "Professor" : "Sabrina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46522-04",
+        "Denominacao" : "Pratica na Agencia Experimental I (120 horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107",
+        "Professor" : "Alessandra",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46522-04",
+        "Denominacao" : "Pratica na Agencia Experimental I (120 horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46523-04",
+        "Denominacao" : "Pratica na Agencia Experimental II (120 horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46523-04",
+        "Denominacao" : "Pratica na Agencia Experimental II (120 horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46524-04",
+        "Denominacao" : "Pratica na Agencia Experimental III (120 Horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107-01",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46524-04",
+        "Denominacao" : "Pratica na Agencia Experimental III (120 Horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107-01",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46525-04",
+        "Denominacao" : "Pratica na Agencia Experimental IV (120 horas)",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK4JK",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Chanin",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46525-04",
+        "Denominacao" : "Pratica na Agencia Experimental IV (120 horas)",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/107-02",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46526-02",
+        "Denominacao" : "Programacao de Software Basico",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5LM",
+        "Sala" : "32/A/317",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "46526-02",
+        "Denominacao" : "Programacao de Software Basico",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5LM",
+        "Sala" : "32/A/405",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/213",
+        "Professor" : "Lucilia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/305",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95300-04",
+        "Denominacao" : "Calculo I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/413",
+        "Professor" : "Daniela",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95301-04",
+        "Denominacao" : "Calculo II",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/205",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95301-04",
+        "Denominacao" : "Calculo II",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3EX6EX",
+        "Sala" : "32/A/206",
+        "Professor" : "Ivan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95301-04",
+        "Denominacao" : "Calculo II",
+        "Turma" : 12,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3XZ6XZ",
+        "Sala" : "32/A/306",
+        "Professor" : "Iuri",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95302-04",
+        "Denominacao" : "algebra Linear e Geometria Analitica",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/313",
+        "Professor" : "Daniela",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95302-04",
+        "Denominacao" : "algebra Linear e Geometria Analitica",
+        "Turma" : 33,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/414",
+        "Professor" : "Marcia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/305",
+        "Professor" : "Cintia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2AB4AB",
+        "Sala" : "32/A/307",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/313",
+        "Professor" : "Daniela",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95303-04",
+        "Denominacao" : "Matematica Discreta",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/315",
+        "Professor" : "Karina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95304-04",
+        "Denominacao" : "Probabilidade e Estatistica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK5JK",
+        "Sala" : "32/A/206",
+        "Professor" : "Barbara",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95304-04",
+        "Denominacao" : "Probabilidade e Estatistica",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/205",
+        "Professor" : "Sergio Kato",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "95305-04",
+        "Denominacao" : "Matematica Aplicada",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/315",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98700-04",
+        "Denominacao" : "Sistemas Operacionais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/305",
+        "Professor" : "Hessel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98700-04",
+        "Denominacao" : "Sistemas Operacionais",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/205",
+        "Professor" : "Dotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98701-04",
+        "Denominacao" : "Programacao de Baixo Nivel",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/303",
+        "Professor" : "Cohen",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98701-04",
+        "Denominacao" : "Programacao de Baixo Nivel",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/207",
+        "Professor" : "Edson",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98702-04",
+        "Denominacao" : "Pratica em Pesquisa",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6AB7AB",
+        "Sala" : "32/A/303",
+        "Professor" : "Soraia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98702-04",
+        "Denominacao" : "Pratica em Pesquisa",
+        "Turma" : 12,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6AB7AB",
+        "Sala" : "32/A/304",
+        "Professor" : "Ferreto",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98703-02",
+        "Denominacao" : "Programacao Funcional",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/216",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98703-02",
+        "Denominacao" : "Programacao Funcional",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/216",
+        "Professor" : "Julio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98703-02",
+        "Denominacao" : "Programacao Funcional",
+        "Turma" : 37,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/203",
+        "Professor" : "###",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98704-04",
+        "Denominacao" : "Pratica em Engenharia de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/317",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD",
+        "Sala" : "32/A/314",
+        "Professor" : "Agustini",
+        "Alunos" : [
+        {
+        "Matricula" : 21201018,
+        "Nome" : "Carla da Silva"
+        },
+        {
+        "Matricula" : 22280027,
+        "Nome" : "Katia da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD",
+        "Sala" : "32/A/214",
+        "Professor" : "Cristina",
+        "Alunos" : [
+        {
+        "Matricula" : 22280018,
+        "Nome" : "Solange da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6NP",
+        "Sala" : "32/A/516",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98705-02",
+        "Denominacao" : "Introducao a Computacao",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM",
+        "Sala" : "32/A/516",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98706-04",
+        "Denominacao" : "Aprendizado de Maquina",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD",
+        "Sala" : "32/A/305",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98707-02",
+        "Denominacao" : "Metodologia Cientifica",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB",
+        "Sala" : "32/A/516",
+        "Professor" : "Soraia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98707-02",
+        "Denominacao" : "Metodologia Cientifica",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB",
+        "Sala" : "32/A/305",
+        "Professor" : "Ferreto",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98708-04",
+        "Denominacao" : "Inteligencia Artificial",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/315",
+        "Professor" : "Scopel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98708-04",
+        "Denominacao" : "Inteligencia Artificial",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/205",
+        "Professor" : "Silvia",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98709-04",
+        "Denominacao" : "Fundamentos de Redes de Computadores",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/314",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98710-02",
+        "Denominacao" : "Laboratorio de Redes de Computadores",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK",
+        "Sala" : "32/A/203",
+        "Professor" : "Cristina",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98712-04",
+        "Denominacao" : "Introducao a Programacao - ECo",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/317",
+        "Professor" : "JB",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98713-04",
+        "Denominacao" : "Fundamentos de Processamento Paralelo e Distribuido",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/314",
+        "Professor" : "DeRose",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98713-04",
+        "Denominacao" : "Fundamentos de Processamento Paralelo e Distribuido",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/307",
+        "Professor" : "Dotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98713-04",
+        "Denominacao" : "Fundamentos de Processamento Paralelo e Distribuido",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/414",
+        "Professor" : "Neves",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98716-04",
+        "Denominacao" : "Computacao Grafica",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/214",
+        "Professor" : "Pinho",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98718-04",
+        "Denominacao" : "Programacao Orientada A Objetos - Eco",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/217",
+        "Professor" : "Roland",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98718-04",
+        "Denominacao" : "Programacao Orientada A Objetos - Eco",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/309",
+        "Professor" : "Miguel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98719-02",
+        "Denominacao" : "Construcao de Sistemas Operacionais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5NP",
+        "Sala" : "32/A/203",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/205",
+        "Professor" : "Hessel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/314",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/214",
+        "Professor" : "Mangan",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98800-04",
+        "Denominacao" : "Fundamentos de Sistemas Computacionais",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM6NP",
+        "Sala" : "32/A/413",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98801-04",
+        "Denominacao" : "Engenharia de Software I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/206",
+        "Professor" : "Alessandra",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98801-04",
+        "Denominacao" : "Engenharia de Software I",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/206",
+        "Professor" : "Alessandra",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98801-04",
+        "Denominacao" : "Engenharia de Software I",
+        "Turma" : 37,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/414",
+        "Professor" : "###",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98802-02",
+        "Denominacao" : "Engenharia de Software II",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4NP",
+        "Sala" : "32/A/306",
+        "Professor" : "Michael",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98900-02",
+        "Denominacao" : "Introducao a Engenharia de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK",
+        "Sala" : "32/A/306",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98900-02",
+        "Denominacao" : "Introducao a Engenharia de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5JK",
+        "Sala" : "32/A/316",
+        "Professor" : "Ana Bacelo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/206",
+        "Professor" : "Espindola",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/213",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3NP5NP",
+        "Sala" : "32/A/206",
+        "Professor" : "Arruda",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/214",
+        "Professor" : "Azriel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98901-04",
+        "Denominacao" : "Banco de Dados I",
+        "Turma" : 32,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/213, 32/A/306",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98902-02",
+        "Denominacao" : "Banco de Dados II",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD",
+        "Sala" : "32/A/216",
+        "Professor" : "Espindola",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98902-02",
+        "Denominacao" : "Banco de Dados II",
+        "Turma" : 11,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6EX",
+        "Sala" : "32/A/303",
+        "Professor" : "Daniel",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98902-02",
+        "Denominacao" : "Banco de Dados II",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6LM",
+        "Sala" : "32/A/216",
+        "Professor" : "Espindola",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98902-02",
+        "Denominacao" : "Banco de Dados II",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM",
+        "Sala" : "32/A/216",
+        "Professor" : "Arruda",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98903-02",
+        "Denominacao" : "Processos de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "6JK",
+        "Sala" : "32/A/304",
+        "Professor" : "Dilnei",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98904-04",
+        "Denominacao" : "Verificacao e Validacao de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/307",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98904-04",
+        "Denominacao" : "Verificacao e Validacao de Software",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/307",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98905-04",
+        "Denominacao" : "Experiencia do Usuario",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/304",
+        "Professor" : "Milene",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98905-04",
+        "Denominacao" : "Experiencia do Usuario",
+        "Turma" : 31,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM5LM",
+        "Sala" : "32/A/316",
+        "Professor" : "Chanin",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98906-04",
+        "Denominacao" : "Projeto e Arquitetura de Software",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/217",
+        "Professor" : "Bernardo",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98F29-04",
+        "Denominacao" : "Inferencia Comparada",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3AB5AB",
+        "Sala" : "32/A/316",
+        "Professor" : "Zabala",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98F30-04",
+        "Denominacao" : "Analise Multivariada",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "5LM6JK",
+        "Sala" : "32/A/313",
+        "Professor" : "Zabala",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98F33-04",
+        "Denominacao" : "algebra Linear e Matricial",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD",
+        "Sala" : "32/A/205",
+        "Professor" : "Cardona",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G00-04",
+        "Denominacao" : "Sistemas Embarcados",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2LM4LM",
+        "Sala" : "32/A/318",
+        "Professor" : "Sergio",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G02-04",
+        "Denominacao" : "Sistemas Digitais",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3CD5CD",
+        "Sala" : "32/A/203",
+        "Professor" : "Garibotti",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G03-04",
+        "Denominacao" : "Organizacao e Arquitetura de Processadores",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "4CD6CD",
+        "Sala" : "32/A/306",
+        "Professor" : "Ney",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G04-02",
+        "Denominacao" : "Construcao de Sistemas Digitais",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3LM",
+        "Sala" : "32/A/317",
+        "Professor" : "Ney",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98G05-04",
+        "Denominacao" : "Arquitetura e Organizacao de Computadores",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2JK6LM",
+        "Sala" : "32/A/217",
+        "Professor" : "Marcon",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H00-04",
+        "Denominacao" : "Infraestrutura para Gestao de Dados",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2NP4NP",
+        "Sala" : "32/A/305",
+        "Professor" : "Arruda",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H01-04",
+        "Denominacao" : "Coleta, Preparacao e Analise de Dados",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2EX4EX",
+        "Sala" : "32/A/206",
+        "Professor" : "Lucas",
+        "Alunos" : null
+        },
+        {
+        "Codicred" : "98H03-04",
+        "Denominacao" : "Introducao a Ciencia de Dados",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2EX4EX",
+        "Sala" : "N/A",
+        "Professor" : "Duncan",
+        "Alunos" : [
+        {
+        "Matricula" : 20106842,
+        "Nome" : "Jovana da Silva"
+        },
+        {
+        "Matricula" : 22280023,
+        "Nome" : "Marcelo da Silva"
+        },
+        {
+        "Matricula" : 21206067,
+        "Nome" : "Rogerio da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98H04-06",
+        "Denominacao" : "Programacao Orientada A Dados",
+        "Turma" : 10,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "2CD4CD6CD",
+        "Sala" : "32/A/203",
+        "Professor" : "Dalvan",
+        "Alunos" : [
+        {
+        "Matricula" : 21108293,
+        "Nome" : "Marcelo da Silva"
+        }
+        ]
+        },
+        {
+        "Codicred" : "98H05-04",
+        "Denominacao" : "Aprendizado Supervisionado",
+        "Turma" : 30,
+        "Ano_Semestre" : "2022/2",
+        "Horarios" : "3JK5JK",
+        "Sala" : "32/A/215",
+        "Professor" : "Duncan",
+        "Alunos" : null
+        }
+]

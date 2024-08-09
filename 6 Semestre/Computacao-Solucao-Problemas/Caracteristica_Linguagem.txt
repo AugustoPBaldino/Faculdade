@@ -1,0 +1,10 @@
+Fácil de codificar e de ler
+Software livre e de código aberto
+Biblioteca padrão extensa
+Linguagem interpretada
+Portável: desenvolvimento em plataforma cruzada
+Orientada a objetos, funcional e procedural
+Linguagem Extensível(C/C++)
+Dinamicamente tipada
+Usa identação por padrão
+Documentação abundante
